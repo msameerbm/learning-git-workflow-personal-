@@ -1,2 +1,2 @@
-# learning-git-workflow-personal-
-In this project, i am learning how to collabrate with teams using git. 😀
+# learning-git-workflow-personal- 🚀
+In this project, i am learning how to collaborate with teams using git.😀 🔥 
